@@ -13,3 +13,4 @@ Website UAS menggunakan HTML, CSS, JavaScript, dan PHP.
 
 ## Catatan
 Proyek ini berjalan di XAMPP (localhost) karena menggunakan PHP & MySQL.
+untuk hasilnya portofolionya bisa di cek di link http://van-alvan.free.nf/
